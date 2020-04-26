@@ -123,3 +123,16 @@ footer p{
     color: #fff;
     font-size: 0.875rem;
 }
+
+article{
+    width: 74%;
+}
+aside{
+    width: 22%;
+}
+
+.news-contens{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
